@@ -10,7 +10,7 @@
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
 | **Team Members**           | 1.      |
-|                            | 2.      |
+|                            | 2.    Prince Zyian Vhelbrei Barbarona  |
 |                            | 3.      |
 |                            | 4.      |
 |                            | 5.      |
