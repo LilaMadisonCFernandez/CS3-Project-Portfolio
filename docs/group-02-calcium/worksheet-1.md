@@ -39,17 +39,17 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.     Class Monitor     |         Adds students who are tardy/absent to program                      |
+| 2.      Class Advisor    |         The person who will receive the information                      |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
+| 1    |     Student is tardy/absent          |           N/A           |
+| 2    |      Class Monitor checks them as tardy/absent         |          Class Monitor            |
+| 3    |       Class Advisor receives the information    |      Class Advisor                |
+| 4    |      Class Advisor marks student as tardy/absent     |        Class Advisor             |
 | 5    |               |                      |
 
 ---
