@@ -2,12 +2,12 @@
 
 ## Members
 
-1. 
-2. Prince Zyian Vhelbrei Barbarona
-3. 
-4. 
-5. 
-6. 
+1. Prince Zyian Vhelbrei Barbarona
+2. Veince Estrera
+3. Lila Madison Fernandez
+4. Grette Mangkikis
+5. Sebastian Mel Andrei Montefalcon
+6. Karl Gian Sabud
 
 ## Project Title
 
