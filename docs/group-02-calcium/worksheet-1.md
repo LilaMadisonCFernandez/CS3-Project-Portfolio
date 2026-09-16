@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+* The problems or difficulties observed are that manual attendance tracking using paper logs is time-consuming and vulnerable to human recording errors. This traditional method also causes significant delays in identifying tardy or absent students and getting those reports to the adviser. Additionally, documents could easily get damaged or lost, which may cause inconveniences when completing student records.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+* The part of the process that could be improved or automated is the manual checking of attendance so that it can be fully digitized for faster logging and added security. Additionally, the compilation and instant delivery of daily attendance records directly to the class adviser can be automated, which aids them in keeping track of each student.
 
 <br>
 
