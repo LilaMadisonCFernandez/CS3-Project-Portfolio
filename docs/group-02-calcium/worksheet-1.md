@@ -48,7 +48,7 @@
 | ---- | ------------- | -------------------- |
 | 1    |     Student is tardy/absent          |           N/A           |
 | 2    |      Class Monitor checks them as tardy/absent         |          Class Monitor            |
-| 3    |       Class Advisor receives the information    |      Class Advisor                |
+| 3    |       Class Monitor informs Class Advisor of tardy/absent student    |      Class Advisor and Class Monitor                |
 | 4    |      Class Advisor marks student as tardy/absent     |        Class Advisor             |
 | 5    |               |                      |
 
