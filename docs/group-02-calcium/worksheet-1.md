@@ -91,6 +91,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Digital Attendance Recording     | Record which students are present, absent, or tardy.        |
+| 2. Automatic Reports in Attendance     |  Send the records of attendance to the class adviser      |
+| 3.  List of Student Attendance | Views and checks the student’s attendance records        |
