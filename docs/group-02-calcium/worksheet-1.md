@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+* ​The current traditional or manual classroom attendance recording process, where student presence, tardiness, and absences are checked and logged on paper or in a record book.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+* To track daily student attendance, monitor tardiness and absences, and ensure accurate record-keeping for classroom management and administrative reporting.
 
 <br>
 
@@ -40,17 +40,17 @@
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
 | 1.     Class Monitor     |         Adds students who are tardy/absent to program                      |
-| 2.      Class Advisor    |         The person who will receive the information                      |
+| 2.     Class Advisor     |         The person who will receive the information                        |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |     Student is tardy/absent          |           N/A           |
-| 2    |      Class Monitor checks them as tardy/absent         |          Class Monitor            |
-| 3    |       Class Monitor informs Class Advisor of tardy/absent student    |      Class Advisor and Class Monitor                |
-| 4    |      Class Advisor marks student as tardy/absent     |        Class Advisor             |
-| 5    |               |                      |
+| 1    |     Student is tardy/absent                                                        |           N/A                       |
+| 2    |     Class Monitor checks them as tardy/absent                                      |          Class Monitor              |
+| 3    |     Class Monitor informs Class Advisor of tardy/absent student                    |      Class Advisor and Class Monitor|
+| 4    |     Class Advisor marks student as tardy/absent                                    |        Class Advisor                |
+| 5    |     Attendance data is manually summarized and transferred to administrative forms or reports |      Class Adviser       |
 
 ---
 
@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+*Our proposed system is a digital attendance system for classroom. It will help teachers easily record students who are present, absent, or tardy.  The system will automatically record and send the attendance records to the class adviser for easier monitoring of classes and keeping records. 
 
 <br>
 
@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Class Adviser |  Receive and monitor attendance automatically                                                |
+| 2. Student       |   Inputs whether they are present, absent, or tardy. They may keep track of their attendance |
 
 ### 3. What are the essential features?
 
