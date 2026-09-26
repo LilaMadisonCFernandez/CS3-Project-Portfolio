@@ -23,14 +23,13 @@
 
 ### 1. What process did you observe?
 
-* ​The current traditional or manual classroom attendance recording process, where student presence, tardiness, and absences are checked and logged on paper or in a record book.
+* ​​The current traditional or manual classroom attendance recording process, where student presence, tardiness, and absences are checked and logged on a paper or in a record book.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
 * To track daily student attendance, monitor tardiness and absences, and ensure accurate record-keeping for classroom management and administrative reporting.
-
 <br>
 
 ### 3. Who are involved in the process?
