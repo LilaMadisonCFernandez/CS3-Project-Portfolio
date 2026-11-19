@@ -197,6 +197,7 @@ Teacher who can display attendance records and assign a class monitor
 | Method Name | What does it do? |
 |---|---|
 | View_Attendance() | Reviews attendance record in case of mistakes |
+| Assign_Monitor() | Assigns who is in charge of checking the attendance |
 
 ---
 **Additional Classes:** Add another copy of the Class Analysis section for each additional class you identify.
