@@ -95,28 +95,76 @@ Generalizes a person in school
 
 ### Class No. 2
 
-**Class Name:** __________________________________
+**Class Name:** Attendence_Record
 
 **Purpose:**  
-__________________________________________________
+Contains information regarding the attendance
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| Student_Name | Student’s name (for identification) |
+| Date | Date of attendance |
+| Time | Time of attendance |
+| Subject | Current subject |
+| Type of Infraction | Type of infraction committed by student |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| N/A | N/A |
+
+---
+
+### Class No. 3
+
+**Class Name:** Class_Moniter
+
+**Purpose:**  
+Student who notes who is absent/tardy/OB in their class
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+| Name | Monitor’s name (for identification) |
+| Age | Monitor’s age |
+| Gender | Monitor’s gender |
+| Section | Monitor’s section |
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+| Attendance_Check() | Identifies information of student (date, time, subject (optional), student name, type of attendance infraction) |
+| Perfect_Attendance() | Records a perfect attendance for the class |
+
+---
+
+### Class No. 4
+
+**Class Name:** Subject_Teacher
+
+**Purpose:**
+Teacher who will review Class Monitor’s records
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+| Name | Subject Teacher’s name (for identification) |
+| Age | Subject Teacher’s age |
+| Gender | Subject Teacher’s gender |
+| Section | Subject Teacher’s subject |
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+| Display_Attendance() | Displays attendance record |
+| Assign_Monitor() | Assigns who is in charge of checking the attendance |
 
 ---
 
@@ -125,6 +173,35 @@ __________________________________________________
 **Reminder:** Keep your project simple. Avoid creating unnecessary classes.
 
 ---
+
+### Class No. 5
+
+**Class Name:** Class_Adviser
+
+**Purpose:**
+Teacher who can display attendance records and assign a class monitor
+
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+| Name | Class Adviser’s name (for identification) |
+| Age | Class Adviser’ age |
+| Gender | Class Adviser’ gender |
+| Section | Class Adviser’ section |
+
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+| View_Attendance() | Reviews attendance record in case of mistakes |
+
+---
+**Additional Classes:** Add another copy of the Class Analysis section for each additional class you identify.
+
+**Reminder:** Keep your project simple. Avoid creating unnecessary classes.
 
 ## Part 5. Identify Class Relationships
 
