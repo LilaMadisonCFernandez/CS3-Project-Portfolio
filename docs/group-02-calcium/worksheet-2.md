@@ -15,16 +15,11 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | Class Monitor | In charge of taking attendance and reporting of students who are absent/tardy/OB |
+| 2 | Subject Teacher | Views and confirms the attendance during their subject |
+| 3 | Class Adviser | Assigns class monitor and views attendance |
+| 4 | Attendance Record | Contains information (date, time, subject, student name, type of infraction) |
+
 
 ### Object Evaluation
 
@@ -48,14 +43,10 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| 1 | Class Monitor | Records and updates the attendance for the day. | Attendance Record |
+| 2 | Class Adviser or Subject Teacher | Sees and checks the attendance record if it is accurate. | Attendance Record |
+| 3 | Class Adviser | Updates the student monitor when needed. | Student Monitor |
+
 
 ---
 
@@ -67,11 +58,11 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Person | General person in school |
+| 2 | Attendance_Record | Contains a section’s attendance record |
+| 3 | Class_Monitor | Student who is responsible for taking attendance |
+| 4 | Subject_Teacher | Teacher who will review Class Monitor’s records |
+| 5 | Class_Adviser | The teacher who is in-charge of a section; they keep attendance records and assigns a class monitor |
 
 ---
 
@@ -81,28 +72,24 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Person
 
 **Purpose:**  
-__________________________________________________
+Generalizes a person in school
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| Name | Person’s name (for identification) |
+| Age | Person’s age |
+| Gender | Person’s gender |
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+| None | None |
 
 ---
 
@@ -145,12 +132,11 @@ Determine how your identified classes are related to one another.
 
 | No. | Class 1 | Relationship | Class 2 | Why are they related? |
 |:---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
+| 1 | Person | Inheritance | Class_Monitor | The Class_Monitor inherits the personal attributes from the person class. |
+| 2 | Person | Inheritance | Subject_Teacher | The Subject_Teacher inherits the personal attributes from the person class. |
+| 3 | Person | Inheritance | Class_Adviser | The Class_Advisor inherits the personal attributes from the person class |
+| 4 | Class_Monitor | Association | Attendance_Record | The Class_Monitor records and updates the attendance record for the day. |
+| 5 | Subject_Teacher | Association | Attendance_Record | The Subject_Teacher reviews the attendance records to check its accuracy. |
 
 ### Relationship Types
 
